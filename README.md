@@ -1,4 +1,4 @@
-# Emerging-Market-Credit-Risk-Modeling
+# Emerging Market Credit Risk Modeling
 A complete credit risk modeling pipeline built for markets lacking historical default data — simulating real-world lending conditions using proxy labels, interpretability techniques, and a leakage-controlled machine learning approach.
 ## Project Overview
 In markets where financial histories are sparse or unreliable, building robust credit risk models presents a unique challenge. This project simulates such a scenario using 400,000+ loan application records, crafting an interpretable, proxy-based scoring system that mimics real-world risk modeling. We combine rule-based profiling with a leakage-free XGBoost pipeline, enabling both transparency and high predictive power.
